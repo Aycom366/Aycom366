@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>Hi, my name is Ayomide Bamigboye and I’m a front-end developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m based in Nigeria, the city of Ibadan, but I’m happy working remotely and have experience in remote teams. When I’m not coding, you’ll find me outdoors. I love music especially playing piano. I'd love you to check my work.</p>
+  <p>Hi, my name is Ayomide Bamigboye and I’m a fullstack developer looking for a new role in an exciting company. I focus on writing accessible HTML, using modern CSS practices and writing clean JavaScript. When writing JavaScript code, I mostly use React, but I can adapt to whatever tools are required. I’m based in Nigeria, the city of Ibadan, but I’m happy working remotely and have experience in remote teams. When I’m not coding, you’ll find me outdoors. I love music especially playing piano. I'd love you to check my work.</p>
  
   <div id="badges">
   <a href="https://www.linkedin.com/in/ayomide-bamigboye-a477b4171/">
