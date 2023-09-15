@@ -11,7 +11,7 @@ As I expand my horizons, I'm eager to explore the realm of mobile app developmen
 </p>
 
  <p align="left">
-While I'm currently based in Ibadan, Nigeria, I'm open to remote work opportunities and have a track record of successful collaboration in remote teams. Beyond coding, I find solace outdoors and enjoy playing the piano and creating music. Feel free to explore my work to see how I can contribute to your projects. I'm enthusiastic about connecting and discussing how my TypeScript-driven skills can add value to your team.
+While I'm currently based in Nigeria, I'm open to remote work opportunities and have a track record of successful collaboration in remote teams. Beyond coding, I find solace outdoors and enjoy playing the piano and creating music. Feel free to explore my work to see how I can contribute to your projects. I'm enthusiastic about connecting and discussing how my TypeScript-driven skills can add value to your team.
 </p>
 <br/>
   
