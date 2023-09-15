@@ -32,6 +32,9 @@ While I'm currently based in Nigeria, I'm open to remote work opportunities and 
      <a href="mailto: bamigboyeayomide200@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+     <a href="https://drive.google.com/file/d/1KGIQt4elHV3n8sX0GIs_YYHglmsNZjPD/view?usp=sharing">
+    Resume
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=aycom366&style=flat-square&color=blue" alt="Aycom366"/>
   <h1>
