@@ -7,10 +7,6 @@
 On the frontend, I specialize in React and TypeScript including React Native for mobile developments, crafting robust and maintainable applications. My skills extend to the backend as well, where I enjoy building APIs, working with databases, and managing server-side operations using Node alongside it's frameworks. This fullstack capability allows me to create end-to-end solutions that meet diverse business needs.
 </p>
  <p align="left">
-As I expand my horizons, I'm eager to explore the realm of mobile app development using React Native and TypeScript. Crafting user-friendly and performant mobile experiences is an exciting challenge I'm ready to embrace.
-</p>
-
- <p align="left">
 While I'm currently based in Nigeria, I'm open to remote work opportunities and have a track record of successful collaboration in remote teams. Beyond coding, I find solace outdoors and enjoy playing the piano and creating music. Feel free to explore my work to see how I can contribute to your projects. I'm enthusiastic about connecting and discussing how my TypeScript-driven skills can add value to your team.
 </p>
 <br/>
