@@ -1,47 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p align="left">
-  I'm a versatile developer seeking new opportunities in exciting companies. My expertise spans both frontend, mobile and backend development, enabling me to create holistic solutions. With a strong foundation in writing accessible HTML, applying modern CSS practices, and producing clean JavaScript code, I ensure top-notch user interfaces and smooth user experiences.
-  </p>
- <p align="left">
-On the frontend, I specialize in React and TypeScript including React Native for mobile developments, crafting robust and maintainable applications. My skills extend to the backend as well, where I enjoy building APIs, working with databases, and managing server-side operations using Node alongside it's frameworks. This fullstack capability allows me to create end-to-end solutions that meet diverse business needs.
-</p>
- <p align="left">
-While I'm currently based in Nigeria, I'm open to remote work opportunities and have a track record of successful collaboration in remote teams. Beyond coding, I find solace outdoors and enjoy playing the piano and creating music. Feel free to explore my work to see how I can contribute to your projects. I'm enthusiastic about connecting and discussing how my TypeScript-driven skills can add value to your team.
-</p>
-<br/>
-  
+Full-Stack & React Native Engineer with 5 years building production-grade applications across fintech, e-commerce, healthcare, SaaS, and AI-powered products.
+
  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/ayomide-bamigboye-a477b4171/">
-    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/bamigboyeayomi5">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://wa.me/message/V22CL3KSKY7JE1">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-     <a href="https://facebook.com/ayomide.bamigboye.758">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-     <a href="mailto: bamigboyeayomide200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-     <a href="https://drive.google.com/file/d/1KGIQt4elHV3n8sX0GIs_YYHglmsNZjPD/view?usp=sharing">
-    Resume
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=aycom366&style=flat-square&color=blue" alt="Aycom366"/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  
-</div>
+
+I've shipped features used by 300+ merchants, improved organic traffic by 40%, reduced mobile crashes by 20%, and built integrations for enterprise brands including Guinness and Coca-Cola.
+
+ 
+
+My stack: React, React Native, TypeScript, Node.js, NestJS, from cross-platform mobile apps to backend APIs and AI-powered workflows including document intelligence and conversational systems. Currently expanding into Java and Spring Boot.
+
+ 
+
+Open to remote roles across Frontend, React Native, Full-Stack, AI Engineering, and Backend.
 
 ---
 ### 👨‍💻 About Me :
