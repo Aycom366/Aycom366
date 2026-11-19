@@ -1,17 +1,12 @@
-Full-Stack & React Native Engineer with 5 years building production-grade applications across fintech, e-commerce, healthcare, SaaS, and AI-powered products.
+I’m Ayomide Bamigboye, a Full-Stack & React Native Engineer who likes building real products from the ground up.
 
-I've shipped features used by 300+ merchants, improved organic traffic by 40%, reduced mobile crashes by 20%, and built integrations for enterprise brands including Guinness and Coca-Cola.
+I’ve worked across fintech, e-commerce, SaaS, healthcare and AI, building everything from mobile banking and savings apps to merchant platforms, e-commerce tools, browser extensions, AI document products and developer tools.
 
-My stack: React, React Native, TypeScript, Node.js, NestJS, from cross-platform mobile apps to backend APIs and AI-powered workflows including document intelligence and conversational systems. Currently expanding into Java and Spring Boot.
+My main stack is React, React Native, TypeScript, Next.js, Node.js, NestJS and Springboot. I enjoy working across the product, from the UI and mobile experience to APIs, integrations and the systems behind them.
+
+Most importantly, I like building things that people actually use.
 
 Open to remote roles across Frontend, React Native, Full-Stack, AI Engineering, and Backend.
-
----
-### 👨‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications including mobile applications.
-
-- :zap: In my free time, I play piano and trade the finacial market(forex).
 
 ---
 ### 🚀 Projects :
